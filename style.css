@@ -6,6 +6,10 @@
 	font-family: "Lato", sans-serif;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 nav {
 	background: #111;
 	color: white;
