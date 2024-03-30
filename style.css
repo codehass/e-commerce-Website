@@ -355,3 +355,17 @@ label {
 	background-color: white;
 	color: black;
 }
+
+.gallery {
+	display: flex;
+	padding: 50px;
+}
+
+.galleryItem {
+	flex: 1;
+	padding: 50px;
+}
+
+.galleryImg {
+	width: 100%;
+}
